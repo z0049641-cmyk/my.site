@@ -1,1 +1,1 @@
-"C:\Users\user\Documents\indeх.html"
+https://github.com/z0449641-cmyk/my.site.git
